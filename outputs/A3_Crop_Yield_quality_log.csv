@@ -1,0 +1,50 @@
+record_id,issue,original_value,action
+FARM032,Duplicate Farm_ID,Repeated exact row,Removed repeated row; retained first occurrence.
+FARM010,Missing Annual_Rainfall_mm,,Retained as missing; numeric values are imputed inside training pipeline.
+FARM040,Missing Annual_Rainfall_mm,,Retained as missing; numeric values are imputed inside training pipeline.
+FARM054,Missing Annual_Rainfall_mm,,Retained as missing; numeric values are imputed inside training pipeline.
+FARM141,Missing Annual_Rainfall_mm,,Retained as missing; numeric values are imputed inside training pipeline.
+FARM180,Missing Annual_Rainfall_mm,,Retained as missing; numeric values are imputed inside training pipeline.
+FARM013,Missing Fertilizer_kg_per_ha,,Retained as missing; numeric values are imputed inside training pipeline.
+FARM077,Missing Fertilizer_kg_per_ha,,Retained as missing; numeric values are imputed inside training pipeline.
+FARM099,Missing Fertilizer_kg_per_ha,,Retained as missing; numeric values are imputed inside training pipeline.
+FARM126,Missing Fertilizer_kg_per_ha,,Retained as missing; numeric values are imputed inside training pipeline.
+FARM156,Missing Fertilizer_kg_per_ha,,Retained as missing; numeric values are imputed inside training pipeline.
+FARM025,Missing Soil_Type,,Retained row and label category Unknown.
+FARM032,Missing Soil_Type,,Retained row and label category Unknown.
+FARM053,Missing Soil_Type,,Retained row and label category Unknown.
+FARM061,Missing Soil_Type,,Retained row and label category Unknown.
+FARM065,Farm_Area_Ha <= 0,0,Set area to missing; row retained and model imputes within training folds.
+FARM012,"Annual_Rainfall_mm > 2,000",2500.0 mm,Retained and flagged; verify against source records.
+FARM017,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM020,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM031,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM032,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM039,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM043,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM047,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM050,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM054,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM062,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM063,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM070,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM072,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM074,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM079,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM087,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM095,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM102,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM104,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM107,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM126,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM130,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM132,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM133,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM137,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM147,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM160,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM170,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM172,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM175,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM185,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.
+FARM198,Yield above 1.5×IQR review fence,12.00 tonnes/ha,Retained; investigate measurement and crop context before real-world use.

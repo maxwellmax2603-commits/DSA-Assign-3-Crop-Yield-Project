@@ -1,0 +1,12 @@
+issue,count,decision
+Exact duplicate rows,1,Drop repeated exact record; retain first occurrence.
+Duplicate farm IDs,1,Keep first row after confirming duplicated farm record is identical.
+Missing Farm_Area_Ha,0,Preserve as missing; numeric median imputation is fitted inside training CV/model pipeline.
+Missing Annual_Rainfall_mm,5,Preserve as missing; numeric median imputation is fitted inside training CV/model pipeline.
+Missing Mean_Temperature_C,0,Preserve as missing; numeric median imputation is fitted inside training CV/model pipeline.
+Missing Fertilizer_kg_per_ha,5,Preserve as missing; numeric median imputation is fitted inside training CV/model pipeline.
+Missing Yield_tonnes_per_ha,0,Preserve as missing; numeric median imputation is fitted inside training CV/model pipeline.
+Missing Soil_Type,4,Preserve row and use explicit Unknown category in the analysis/model.
+Farm area <= 0,1,Set to missing and retain; median-impute inside training pipeline only.
+"Rainfall > 2,000 mm",1,Flag for source verification; retain because plausibility cannot be resolved from workbook.
+Yield above 1.5×IQR review fence,32,Flag for contextual review; retain unusual observations.

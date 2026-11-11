@@ -1,0 +1,9 @@
+issue,count,decision
+Exact duplicate rows,2,Drop repeated transaction rows; retain first occurrence.
+Duplicate transaction identifiers,2,Keep first row per ID after confirming duplicates are exact.
+Missing Region,5,Preserve row and label category Unknown.
+Missing Payment_Method,5,Preserve row and label category Unknown.
+Invalid essential values,0,Exclude rows only if an essential field is invalid; inspect before removal.
+Missing unit price,5,Impute with within-category median; rows are flagged in the quality log.
+Supplied revenue differs from calculated revenue by > KES 0.01,7,Use formula-derived net revenue; retain supplied value and difference for audit.
+High price/quantity flag (above 99th percentile),3,Retain and flag; no transaction is removed solely for being extreme.

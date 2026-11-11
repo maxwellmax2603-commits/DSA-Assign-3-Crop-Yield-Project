@@ -1,0 +1,28 @@
+record_id,issue,original_value,action
+TX0021,Duplicate transaction identifier,Repeated exact row,Removed repeated row; retained first occurrence.
+TX0091,Duplicate transaction identifier,Repeated exact row,Removed repeated row; retained first occurrence.
+TX0002,Missing Region,,Set to explicit Unknown category.
+TX0015,Missing Region,,Set to explicit Unknown category.
+TX0213,Missing Region,,Set to explicit Unknown category.
+TX0224,Missing Region,,Set to explicit Unknown category.
+TX0226,Missing Region,,Set to explicit Unknown category.
+TX0096,Missing Payment_Method,,Set to explicit Unknown category.
+TX0123,Missing Payment_Method,,Set to explicit Unknown category.
+TX0173,Missing Payment_Method,,Set to explicit Unknown category.
+TX0192,Missing Payment_Method,,Set to explicit Unknown category.
+TX0212,Missing Payment_Method,,Set to explicit Unknown category.
+TX0078,Missing Unit_Price_KES,,Imputed with product-category median: 570.16 KES.
+TX0083,Missing Unit_Price_KES,,Imputed with product-category median: 3286.98 KES.
+TX0097,Missing Unit_Price_KES,,Imputed with product-category median: 570.16 KES.
+TX0131,Missing Unit_Price_KES,,Imputed with product-category median: 6578.83 KES.
+TX0212,Missing Unit_Price_KES,,Imputed with product-category median: 570.16 KES.
+TX0008,Revenue formula mismatch,supplied=68250.77; calculated=1137512.90; difference=1069262.13 KES,Used formula-derived net revenue; retained supplied value in audit columns.
+TX0019,Revenue formula mismatch,supplied=116623.31; calculated=1425000.00; difference=1308376.69 KES,Used formula-derived net revenue; retained supplied value in audit columns.
+TX0078,Revenue formula mismatch,supplied=1626.19; calculated=3791.60; difference=2165.41 KES,Used formula-derived net revenue; retained supplied value in audit columns.
+TX0083,Revenue formula mismatch,supplied=4456.96; calculated=6573.96; difference=2117.00 KES,Used formula-derived net revenue; retained supplied value in audit columns.
+TX0097,Revenue formula mismatch,supplied=5267.52; calculated=2736.79; difference=-2530.73 KES,Used formula-derived net revenue; retained supplied value in audit columns.
+TX0131,Revenue formula mismatch,supplied=2871.58; calculated=13157.66; difference=10286.08 KES,Used formula-derived net revenue; retained supplied value in audit columns.
+TX0212,Revenue formula mismatch,supplied=4158.60; calculated=3420.99; difference=-737.61 KES,Used formula-derived net revenue; retained supplied value in audit columns.
+TX0008,High price/quantity flag,unit_price=11973.82 KES; units=100,Retained and flagged; verify against source receipt.
+TX0019,High price/quantity flag,unit_price=250000.00 KES; units=6,Retained and flagged; verify against source receipt.
+TX0092,High price/quantity flag,unit_price=44869.36 KES; units=4,Retained and flagged; verify against source receipt.

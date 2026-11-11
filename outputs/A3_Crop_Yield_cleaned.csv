@@ -1,0 +1,201 @@
+Farm_ID,County,Crop_Type,Farm_Area_Ha,Annual_Rainfall_mm,Mean_Temperature_C,Fertilizer_kg_per_ha,Soil_Type,Irrigation,Yield_tonnes_per_ha,Rainfall_Review_Flag,Yield_Review_Flag
+FARM001,Meru,Maize,6.89,963.0,23.4,80.3,Sandy,Yes,2.35,False,False
+FARM002,Uasin Gishu,Maize,5.66,554.2,17.2,63.0,Loam,No,3.36,False,False
+FARM003,Nakuru,Maize,6.35,911.6,24.9,76.1,Clay,No,3.9,False,False
+FARM004,Trans Nzoia,Beans,0.89,642.6,20.1,123.3,Sandy,No,1.85,False,False
+FARM005,Uasin Gishu,Beans,2.99,524.2,23.2,124.3,Loam,Yes,1.62,False,False
+FARM006,Meru,Maize,2.33,603.2,22.1,111.5,Loam,No,1.89,False,False
+FARM007,Trans Nzoia,Maize,1.34,710.9,19.2,91.4,Clay,No,4.54,False,False
+FARM008,Trans Nzoia,Maize,1.72,298.9,19.7,69.0,Sandy,No,2.16,False,False
+FARM009,Uasin Gishu,Maize,5.69,443.7,27.6,82.3,Loam,No,2.48,False,False
+FARM010,Meru,Maize,5.98,,27.0,162.7,Loam,No,3.74,False,False
+FARM011,Bungoma,Beans,5.94,559.6,23.1,145.7,Clay,No,1.31,False,False
+FARM012,Bungoma,Maize,3.22,2500.0,26.7,112.9,Silty,Yes,4.53,True,False
+FARM013,Uasin Gishu,Maize,2.78,1037.5,23.4,,Clay,No,5.06,False,False
+FARM014,Uasin Gishu,Maize,3.61,490.7,23.3,67.9,Silty,No,3.16,False,False
+FARM015,Bungoma,Beans,2.58,627.5,15.5,103.5,Loam,No,0.94,False,False
+FARM016,Uasin Gishu,Beans,7.65,723.2,20.1,21.5,Sandy,No,0.2,False,False
+FARM017,Bungoma,Potatoes,1.64,921.1,23.8,127.9,Sandy,No,12.0,False,True
+FARM018,Trans Nzoia,Maize,3.5,681.7,19.9,84.9,Sandy,No,3.2,False,False
+FARM019,Meru,Maize,3.19,1023.8,14.2,53.8,Loam,Yes,4.53,False,False
+FARM020,Meru,Potatoes,4.63,819.5,22.2,92.6,Loam,No,12.0,False,True
+FARM021,Bungoma,Maize,4.07,303.5,23.5,92.4,Loam,Yes,1.62,False,False
+FARM022,Kirinyaga,Beans,2.79,683.3,22.2,125.4,Loam,Yes,3.54,False,False
+FARM023,Meru,Maize,5.72,556.7,23.5,59.3,Loam,No,2.84,False,False
+FARM024,Nakuru,Maize,7.02,705.0,22.8,84.2,Silty,No,3.67,False,False
+FARM025,Bungoma,Beans,1.86,595.1,26.6,139.7,Unknown,No,1.05,False,False
+FARM026,Bungoma,Maize,1.99,698.5,22.5,164.8,Loam,Yes,3.66,False,False
+FARM027,Nakuru,Maize,5.36,597.9,21.6,89.4,Sandy,Yes,3.26,False,False
+FARM028,Meru,Rice,5.25,825.1,23.3,75.8,Loam,Yes,4.5,False,False
+FARM029,Nakuru,Beans,9.0,764.7,26.9,97.3,Loam,Yes,1.86,False,False
+FARM030,Meru,Maize,7.67,294.8,24.6,119.6,Loam,No,2.1,False,False
+FARM031,Trans Nzoia,Potatoes,5.55,911.2,25.4,139.3,Silty,No,12.0,False,True
+FARM032,Uasin Gishu,Potatoes,1.42,828.1,28.1,144.2,Unknown,No,12.0,False,True
+FARM033,Meru,Maize,7.17,754.3,24.6,131.4,Loam,No,3.28,False,False
+FARM034,Nakuru,Beans,2.78,698.9,19.6,115.6,Clay,Yes,1.85,False,False
+FARM035,Meru,Beans,3.74,724.7,19.4,146.8,Sandy,No,1.48,False,False
+FARM036,Kirinyaga,Maize,4.66,599.5,18.9,132.0,Loam,No,3.86,False,False
+FARM037,Nakuru,Beans,2.61,544.4,27.4,124.9,Clay,No,0.67,False,False
+FARM038,Uasin Gishu,Maize,1.72,512.8,28.4,165.1,Clay,No,3.34,False,False
+FARM039,Nakuru,Potatoes,1.96,488.9,23.5,95.0,Loam,No,12.0,False,True
+FARM040,Meru,Beans,3.99,,21.6,93.2,Loam,No,1.18,False,False
+FARM041,Bungoma,Beans,4.29,596.9,31.7,108.7,Silty,No,0.38,False,False
+FARM042,Kirinyaga,Beans,1.48,738.6,22.8,159.4,Loam,No,0.6,False,False
+FARM043,Bungoma,Potatoes,2.87,771.3,20.7,120.9,Clay,No,12.0,False,True
+FARM044,Bungoma,Rice,4.06,702.4,20.1,101.3,Loam,Yes,4.69,False,False
+FARM045,Trans Nzoia,Rice,5.16,772.8,29.4,72.8,Clay,No,2.87,False,False
+FARM046,Kirinyaga,Beans,2.94,272.8,24.7,70.2,Loam,Yes,1.93,False,False
+FARM047,Kirinyaga,Potatoes,3.01,629.6,25.6,75.7,Clay,Yes,12.0,False,True
+FARM048,Meru,Maize,2.99,700.1,21.9,56.2,Loam,Yes,2.84,False,False
+FARM049,Trans Nzoia,Maize,2.23,899.1,26.7,140.7,Sandy,No,4.35,False,False
+FARM050,Trans Nzoia,Potatoes,2.58,482.8,21.1,124.3,Silty,No,12.0,False,True
+FARM051,Kirinyaga,Beans,3.72,794.3,23.8,48.1,Loam,No,1.41,False,False
+FARM052,Meru,Maize,4.18,430.2,27.6,124.7,Clay,Yes,3.35,False,False
+FARM053,Trans Nzoia,Maize,4.57,975.6,29.0,138.0,Unknown,Yes,5.57,False,False
+FARM054,Uasin Gishu,Potatoes,4.81,,23.1,78.1,Sandy,No,12.0,False,True
+FARM055,Bungoma,Beans,8.92,576.0,18.8,136.1,Clay,Yes,2.04,False,False
+FARM056,Trans Nzoia,Maize,0.99,673.4,22.4,112.7,Loam,Yes,5.04,False,False
+FARM057,Trans Nzoia,Beans,5.26,805.5,25.2,136.0,Loam,No,2.47,False,False
+FARM058,Trans Nzoia,Beans,4.39,916.2,24.2,176.7,Clay,No,4.57,False,False
+FARM059,Nakuru,Maize,1.07,608.7,17.7,103.6,Silty,No,3.21,False,False
+FARM060,Kirinyaga,Beans,1.35,757.2,22.7,60.6,Loam,No,0.2,False,False
+FARM061,Uasin Gishu,Beans,6.85,381.6,19.3,82.6,Unknown,No,1.65,False,False
+FARM062,Uasin Gishu,Potatoes,3.77,567.0,23.5,153.3,Loam,No,12.0,False,True
+FARM063,Uasin Gishu,Potatoes,1.64,589.7,22.1,31.5,Loam,Yes,12.0,False,True
+FARM064,Uasin Gishu,Maize,3.19,536.7,23.6,102.7,Silty,No,2.12,False,False
+FARM065,Meru,Maize,,1130.5,21.9,92.6,Loam,No,2.62,False,False
+FARM066,Meru,Maize,2.25,757.2,19.3,81.8,Loam,Yes,2.82,False,False
+FARM067,Uasin Gishu,Beans,1.73,924.6,26.8,78.2,Sandy,No,2.26,False,False
+FARM068,Kirinyaga,Maize,2.39,752.7,17.7,115.4,Loam,No,3.57,False,False
+FARM069,Bungoma,Beans,4.42,814.5,28.7,107.6,Loam,Yes,1.48,False,False
+FARM070,Trans Nzoia,Potatoes,2.96,774.2,26.7,149.7,Sandy,No,12.0,False,True
+FARM071,Bungoma,Maize,2.54,780.5,17.4,32.4,Clay,No,3.27,False,False
+FARM072,Bungoma,Potatoes,2.86,832.7,22.6,66.7,Clay,Yes,12.0,False,True
+FARM073,Trans Nzoia,Beans,2.74,602.9,15.8,74.3,Clay,Yes,2.07,False,False
+FARM074,Meru,Potatoes,3.46,666.7,21.1,96.4,Silty,No,12.0,False,True
+FARM075,Bungoma,Maize,3.17,849.4,18.8,103.6,Sandy,Yes,3.95,False,False
+FARM076,Trans Nzoia,Beans,5.56,573.3,23.1,85.0,Sandy,No,1.85,False,False
+FARM077,Meru,Rice,3.24,499.6,16.8,,Loam,No,2.43,False,False
+FARM078,Kirinyaga,Beans,5.39,747.3,22.9,161.1,Sandy,No,1.92,False,False
+FARM079,Bungoma,Potatoes,2.41,1028.8,18.1,35.6,Loam,Yes,12.0,False,True
+FARM080,Kirinyaga,Maize,3.43,578.0,18.4,58.2,Clay,No,2.33,False,False
+FARM081,Uasin Gishu,Rice,5.25,707.8,19.7,123.6,Clay,No,3.64,False,False
+FARM082,Bungoma,Rice,3.57,510.4,30.2,79.2,Sandy,Yes,3.04,False,False
+FARM083,Trans Nzoia,Maize,5.76,1076.3,17.4,36.4,Loam,No,3.01,False,False
+FARM084,Uasin Gishu,Beans,4.28,437.8,21.4,75.4,Silty,Yes,1.51,False,False
+FARM085,Kirinyaga,Beans,6.01,737.8,19.6,38.3,Silty,No,1.31,False,False
+FARM086,Bungoma,Maize,4.37,620.9,30.7,159.8,Clay,Yes,4.56,False,False
+FARM087,Trans Nzoia,Potatoes,4.93,1014.6,28.4,161.3,Clay,No,12.0,False,True
+FARM088,Nakuru,Maize,6.84,972.4,21.7,47.6,Sandy,No,3.75,False,False
+FARM089,Trans Nzoia,Beans,6.45,718.7,25.3,100.6,Loam,No,2.63,False,False
+FARM090,Bungoma,Maize,8.4,729.1,28.9,73.8,Clay,No,1.19,False,False
+FARM091,Meru,Maize,4.6,531.9,18.7,136.7,Sandy,No,3.31,False,False
+FARM092,Kirinyaga,Beans,1.68,1171.5,21.7,92.6,Loam,No,1.16,False,False
+FARM093,Nakuru,Maize,1.89,727.6,18.1,106.5,Loam,No,3.19,False,False
+FARM094,Nakuru,Rice,2.43,908.5,17.5,41.4,Sandy,Yes,3.27,False,False
+FARM095,Kirinyaga,Potatoes,1.61,1011.8,22.5,106.4,Loam,No,12.0,False,True
+FARM096,Uasin Gishu,Maize,2.82,908.2,14.0,57.1,Sandy,Yes,2.69,False,False
+FARM097,Nakuru,Maize,4.11,760.2,27.7,49.7,Clay,No,2.44,False,False
+FARM098,Nakuru,Beans,4.25,1016.2,24.8,90.8,Silty,No,1.8,False,False
+FARM099,Kirinyaga,Maize,1.54,733.5,25.1,,Clay,Yes,3.38,False,False
+FARM100,Nakuru,Maize,4.78,693.1,19.9,99.8,Silty,No,2.94,False,False
+FARM101,Bungoma,Beans,2.94,558.7,20.2,129.5,Loam,No,1.13,False,False
+FARM102,Bungoma,Potatoes,3.02,1010.9,25.7,58.6,Clay,Yes,12.0,False,True
+FARM103,Trans Nzoia,Maize,1.74,744.3,18.4,97.4,Clay,No,2.17,False,False
+FARM104,Nakuru,Potatoes,5.38,973.4,24.8,141.3,Silty,No,12.0,False,True
+FARM105,Trans Nzoia,Maize,7.84,698.4,25.4,55.5,Loam,No,4.1,False,False
+FARM106,Meru,Beans,2.36,589.5,26.4,93.3,Sandy,No,0.2,False,False
+FARM107,Uasin Gishu,Potatoes,13.57,619.1,28.2,143.0,Sandy,No,12.0,False,True
+FARM108,Bungoma,Maize,5.41,627.9,24.4,183.5,Sandy,No,3.23,False,False
+FARM109,Meru,Maize,2.68,586.3,20.4,48.4,Loam,No,2.34,False,False
+FARM110,Bungoma,Rice,1.96,250.0,22.6,43.8,Loam,No,3.88,False,False
+FARM111,Uasin Gishu,Beans,4.75,581.5,17.0,44.1,Sandy,No,0.2,False,False
+FARM112,Uasin Gishu,Maize,10.34,701.2,21.9,143.6,Silty,Yes,2.98,False,False
+FARM113,Kirinyaga,Maize,1.75,819.8,23.6,67.5,Clay,No,2.95,False,False
+FARM114,Trans Nzoia,Beans,2.39,730.7,31.2,74.6,Sandy,No,0.43,False,False
+FARM115,Bungoma,Beans,3.56,873.4,24.4,162.6,Sandy,No,2.14,False,False
+FARM116,Nakuru,Beans,6.69,785.3,21.2,91.7,Sandy,Yes,3.28,False,False
+FARM117,Kirinyaga,Rice,1.39,754.5,17.2,126.9,Silty,No,4.14,False,False
+FARM118,Kirinyaga,Maize,15.0,591.4,32.0,152.3,Loam,No,1.93,False,False
+FARM119,Uasin Gishu,Rice,4.52,733.6,18.0,123.9,Loam,No,4.86,False,False
+FARM120,Kirinyaga,Rice,1.56,673.6,27.4,113.0,Clay,No,3.86,False,False
+FARM121,Bungoma,Beans,1.86,886.2,29.9,75.5,Sandy,Yes,1.47,False,False
+FARM122,Kirinyaga,Beans,2.84,809.8,21.5,69.7,Sandy,Yes,2.46,False,False
+FARM123,Uasin Gishu,Maize,2.81,621.3,19.4,97.2,Sandy,No,0.78,False,False
+FARM124,Bungoma,Rice,4.2,846.1,24.7,123.6,Silty,No,4.42,False,False
+FARM125,Nakuru,Maize,8.24,835.6,20.6,89.2,Sandy,Yes,4.34,False,False
+FARM126,Trans Nzoia,Potatoes,6.85,785.2,19.8,,Loam,No,12.0,False,True
+FARM127,Meru,Beans,2.1,761.6,18.2,80.1,Silty,No,0.2,False,False
+FARM128,Uasin Gishu,Beans,0.89,618.5,29.5,92.7,Clay,No,1.78,False,False
+FARM129,Nakuru,Rice,3.12,657.8,22.1,109.5,Loam,Yes,3.98,False,False
+FARM130,Meru,Potatoes,1.21,833.0,29.9,69.5,Loam,No,12.0,False,True
+FARM131,Meru,Beans,3.96,486.7,23.0,109.7,Loam,No,1.64,False,False
+FARM132,Kirinyaga,Potatoes,2.43,1116.7,23.2,77.1,Loam,Yes,12.0,False,True
+FARM133,Bungoma,Potatoes,4.05,826.4,23.9,94.9,Clay,No,12.0,False,True
+FARM134,Kirinyaga,Maize,4.75,777.5,20.3,58.4,Sandy,Yes,4.26,False,False
+FARM135,Uasin Gishu,Maize,6.24,670.5,16.7,119.1,Loam,No,3.96,False,False
+FARM136,Meru,Maize,5.64,878.4,28.2,95.7,Clay,No,3.82,False,False
+FARM137,Meru,Potatoes,2.23,669.6,16.4,46.5,Loam,Yes,12.0,False,True
+FARM138,Trans Nzoia,Rice,2.2,791.4,28.2,17.1,Clay,No,2.39,False,False
+FARM139,Bungoma,Maize,6.0,905.9,26.9,89.7,Loam,No,3.54,False,False
+FARM140,Uasin Gishu,Maize,2.09,577.3,28.2,114.5,Sandy,Yes,4.99,False,False
+FARM141,Trans Nzoia,Maize,2.48,,23.3,75.8,Sandy,No,1.36,False,False
+FARM142,Meru,Maize,2.06,748.6,30.2,93.2,Sandy,Yes,3.81,False,False
+FARM143,Nakuru,Beans,1.11,671.6,26.7,167.1,Clay,No,1.56,False,False
+FARM144,Nakuru,Maize,1.78,408.0,23.8,98.8,Loam,No,1.78,False,False
+FARM145,Kirinyaga,Beans,3.64,736.0,21.2,86.8,Clay,No,1.48,False,False
+FARM146,Kirinyaga,Maize,3.54,721.1,25.3,58.4,Loam,No,1.69,False,False
+FARM147,Bungoma,Potatoes,6.38,775.7,28.0,144.8,Sandy,No,12.0,False,True
+FARM148,Trans Nzoia,Maize,4.07,916.9,22.9,111.4,Clay,No,3.27,False,False
+FARM149,Meru,Maize,3.65,771.6,21.2,87.2,Loam,No,4.28,False,False
+FARM150,Kirinyaga,Maize,6.29,724.5,21.0,103.7,Silty,Yes,4.24,False,False
+FARM151,Meru,Beans,2.6,865.5,20.0,188.0,Loam,Yes,3.53,False,False
+FARM152,Bungoma,Rice,2.87,587.8,20.8,107.2,Clay,No,3.78,False,False
+FARM153,Trans Nzoia,Beans,5.9,833.4,19.5,86.2,Clay,No,1.36,False,False
+FARM154,Uasin Gishu,Maize,1.7,727.3,24.8,133.9,Sandy,No,3.24,False,False
+FARM155,Bungoma,Rice,2.38,620.6,27.6,34.2,Loam,No,3.15,False,False
+FARM156,Kirinyaga,Beans,4.46,818.9,22.8,,Loam,No,2.6,False,False
+FARM157,Uasin Gishu,Beans,2.9,758.6,22.0,72.3,Loam,No,0.2,False,False
+FARM158,Nakuru,Beans,1.16,478.8,22.0,73.4,Silty,No,2.06,False,False
+FARM159,Uasin Gishu,Maize,5.9,708.6,24.2,128.3,Silty,No,3.27,False,False
+FARM160,Meru,Potatoes,1.88,758.0,24.7,70.3,Clay,No,12.0,False,True
+FARM161,Nakuru,Maize,3.16,845.6,30.0,90.2,Clay,No,2.12,False,False
+FARM162,Kirinyaga,Maize,5.89,645.6,25.5,129.7,Loam,No,3.92,False,False
+FARM163,Trans Nzoia,Rice,5.37,540.7,19.2,68.7,Sandy,No,2.27,False,False
+FARM164,Nakuru,Maize,4.51,583.2,21.6,46.9,Sandy,No,2.34,False,False
+FARM165,Trans Nzoia,Rice,5.19,1020.4,19.4,113.9,Sandy,No,3.82,False,False
+FARM166,Uasin Gishu,Maize,3.37,613.0,23.0,112.1,Silty,No,3.82,False,False
+FARM167,Trans Nzoia,Maize,10.36,556.3,19.6,60.1,Loam,No,0.86,False,False
+FARM168,Bungoma,Maize,0.66,250.0,21.4,88.2,Loam,No,1.62,False,False
+FARM169,Meru,Beans,9.07,866.4,22.7,119.7,Loam,No,2.69,False,False
+FARM170,Uasin Gishu,Potatoes,2.27,826.7,24.7,97.1,Clay,No,12.0,False,True
+FARM171,Bungoma,Rice,2.4,674.1,27.3,70.4,Loam,No,3.95,False,False
+FARM172,Trans Nzoia,Potatoes,4.57,726.2,23.5,98.8,Loam,No,12.0,False,True
+FARM173,Uasin Gishu,Maize,2.9,637.7,28.3,58.3,Loam,No,1.87,False,False
+FARM174,Uasin Gishu,Beans,2.17,362.8,26.8,69.9,Loam,Yes,1.39,False,False
+FARM175,Meru,Potatoes,1.94,964.7,23.7,62.0,Silty,No,12.0,False,True
+FARM176,Meru,Maize,3.16,431.7,22.6,68.7,Loam,No,2.16,False,False
+FARM177,Bungoma,Beans,1.66,785.5,27.0,80.4,Clay,No,0.55,False,False
+FARM178,Uasin Gishu,Maize,4.26,636.9,24.5,89.1,Loam,Yes,2.68,False,False
+FARM179,Meru,Rice,1.46,498.6,30.6,64.8,Clay,No,3.3,False,False
+FARM180,Meru,Maize,11.73,,23.4,177.6,Loam,No,5.16,False,False
+FARM181,Kirinyaga,Rice,6.91,584.0,26.2,132.2,Sandy,No,4.7,False,False
+FARM182,Trans Nzoia,Maize,2.69,949.5,23.4,80.9,Silty,No,3.43,False,False
+FARM183,Bungoma,Beans,3.17,480.9,21.8,110.3,Sandy,No,2.96,False,False
+FARM184,Uasin Gishu,Beans,4.8,884.4,27.1,93.8,Loam,No,0.32,False,False
+FARM185,Meru,Potatoes,5.81,684.7,21.7,47.1,Silty,No,12.0,False,True
+FARM186,Bungoma,Maize,2.29,805.3,17.9,131.5,Clay,No,3.95,False,False
+FARM187,Uasin Gishu,Rice,3.98,535.2,21.9,65.2,Clay,Yes,5.29,False,False
+FARM188,Bungoma,Maize,2.34,801.3,22.7,69.3,Sandy,No,2.2,False,False
+FARM189,Kirinyaga,Maize,1.34,856.3,19.6,124.3,Sandy,No,3.03,False,False
+FARM190,Meru,Rice,3.08,835.2,24.5,77.8,Clay,Yes,4.81,False,False
+FARM191,Nakuru,Rice,5.76,733.6,27.0,46.7,Silty,No,2.66,False,False
+FARM192,Meru,Maize,3.72,1151.9,23.0,60.0,Sandy,Yes,3.4,False,False
+FARM193,Nakuru,Rice,2.01,783.8,24.6,106.0,Silty,No,3.76,False,False
+FARM194,Meru,Maize,1.48,874.0,19.1,146.6,Loam,No,3.29,False,False
+FARM195,Kirinyaga,Maize,5.77,656.2,19.3,68.7,Silty,No,3.15,False,False
+FARM196,Nakuru,Maize,1.67,528.7,22.6,60.8,Sandy,No,1.44,False,False
+FARM197,Trans Nzoia,Maize,2.64,927.8,20.8,120.5,Loam,No,4.11,False,False
+FARM198,Kirinyaga,Potatoes,2.13,577.5,20.0,65.8,Clay,No,12.0,False,True
+FARM199,Kirinyaga,Maize,2.89,620.5,20.4,107.1,Loam,No,3.32,False,False
+FARM200,Kirinyaga,Beans,8.31,544.3,27.8,59.6,Sandy,No,0.65,False,False
